@@ -1,0 +1,7 @@
+# Ignore users file with sensitive data
+users.txt
+
+# Ignore compiled files and temp configs
+*.class
+*.log
+bin/
