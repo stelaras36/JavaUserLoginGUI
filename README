@@ -1,0 +1,33 @@
+# JavaUserLoginGUI
+
+A complete **Java Swing GUI Login & Registration system**, built for desktop environments.  
+Includes features such as:
+
+- 🔒 Password hashing (SHA-256)
+- ✉️ Email validation (only Gmail, YahooMail, Outlook, Hotmail)
+- 🧠 Username duplication check
+- 🎨 Dark Mode toggle
+- ✅ Successful login redirects to Welcome screen
+- 🔓 Logout functionality
+
+---
+
+## 🛠️ Technologies Used
+
+- Java 8+
+- Swing / AWT
+- SHA-256 (MessageDigest)
+- File I/O
+
+---
+
+## 📂 Structure
+
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/stelaras36/JavaUserLoginGUI.git
